@@ -1,0 +1,1 @@
+Created a React Native app with focus on navigation. For study!
